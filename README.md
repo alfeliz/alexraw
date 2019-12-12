@@ -7,4 +7,4 @@ Octave script to extract electrical data from ALEX scope. Initial works from 201
 - display_rounded_matrix.m Function used by "alexraw04.m" to save data in a readable and nice way.
 - supsmu.m Function used by "alexraw04.m" to smooth correctly data (It uses a filter) 
 
-Also here is the file *ALEX098.txt*, that includes information from the shot used by the **alexraw.-m** script.
+Also here is the file *ALEX098.txt*, that includes information from the shot used by the **alexraw.m** script.
