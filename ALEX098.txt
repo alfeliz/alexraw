@@ -1,0 +1,25 @@
+CH01
+ Rogowsky Nueva + 36Db Att. + 50 Ohms
+
+CH02
+  Photodiode Thorlab DET120 + 50 Ohms
+
+CH03
+ Div. Res.+ 50 Ohms
+
+
+
+Delays to scope:
+CH01   60 ns
+CH02   63 ns
+CH03   63 ns
+
+
+ 
+W Approx. 2cm long. 0.1 mm diam.
+
+Streak Image (OD03.5 Filter, 50us sweep time, 35 us respect To Standford Pulse)
+
+
+25 000 - 1 000  V
+
